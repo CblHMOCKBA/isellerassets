@@ -1,0 +1,5 @@
+.DS_Store
+.env
+*.import
+.godot/
+_inbox/*.tmp
