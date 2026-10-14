@@ -22,5 +22,9 @@
 
 ## Общий репозиторий
 
-Эта папка — репозиторий `iseller-assets` на GitHub (приватный, Габриель и Илья). Модели (.glb, текстуры, звук) идут через Git LFS.
+Эта папка — приватный репозиторий github.com/CblHMOCKBA/isellerassets (Габриель и Илья). Модели (.glb, текстуры, звук) идут через Git LFS.
 Как работать: `git pull` перед началом, новые модели кладём в нужную папку, строку в `catalog.csv`, затем `git add . && git commit -m "добавил <что>" && git push`.
+
+Первый раз на компьютере: `brew install git-lfs && git lfs install`, затем `git clone https://github.com/CblHMOCKBA/isellerassets.git`.
+
+Рядом лежат `scenarios/` (ТЗ рубрики «Симулятор миров») и `styles/simulyator-stil-referens.png` (референс трёх стилей).
